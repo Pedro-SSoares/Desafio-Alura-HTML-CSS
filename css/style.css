@@ -1,0 +1,20 @@
+@import url("header.css");
+@import url("banner.css");
+@import url("status.css");
+@import url("recrutamento.css");
+@import url("trabalhos.css");
+@import url("relato.css");
+@import url("rodape.css");
+
+:root {
+    --cinza-escuro: #3A404E;
+    --cinza-principal: #667085;
+    --preto: #3A404E;
+    --fonte-principal: 'Inter';
+    --vermelho-botao: #8E2424;
+    --branco: #FFFFFF;
+    --pretao: #101828;
+    --fundo-banner: rgba(142, 36, 36, 0.05);
+    --rosa: #C3191908;
+    --rodape: #F9FAFB;
+}

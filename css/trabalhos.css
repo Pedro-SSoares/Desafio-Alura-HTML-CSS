@@ -1,0 +1,34 @@
+.trabalhos {
+    font-family: var(--fonte-principal);
+    display: inline-block;
+}
+
+.trabalhos__titulo {
+    font-weight: bold;
+    font-size: 20px;
+    color: var(--pretao);
+    margin-left: 20vw;
+    margin-bottom: 1em;
+    margin-top: 3em;
+}
+
+.caixa {
+    border: 1px solid #EAECF0;
+    margin-left: 20vw;
+    width: 60vw;
+    border-radius: 16px;
+    padding: 24px;
+    margin-bottom: 20px;
+}
+
+.caixa__titulo {
+    font-weight: bold;
+    color: var(--pretao);
+    font-size: 18px;
+    margin-bottom: 1.5em;
+}
+
+.caixa__descricao {
+    display: inline-block;
+    margin-right: 10px;
+}

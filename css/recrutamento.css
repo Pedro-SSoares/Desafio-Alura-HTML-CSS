@@ -1,0 +1,35 @@
+.recrutamento {
+    font-family: var(--fonte-principal);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10vw;
+}
+
+.recrutamento__aviso {
+    background-color: var(--fundo-banner);
+    color: var(--vermelho-botao);
+    padding: 4px 10px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+
+.recrutamento__titulo {
+    font-weight: 600;
+    color: var(--pretao);
+    font-size: 36px;
+    margin-bottom: 1em;
+}
+
+.recrutamento__descricao {
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--cinza-principal);
+    margin-bottom: 3em;
+}
+
+.recrutamento__imagem {
+    width: 80%;
+    margin: 0 10% 0 10%;
+}

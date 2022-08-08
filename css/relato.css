@@ -1,0 +1,44 @@
+.relato {
+    margin: 10vw;
+    background-color: var(--rosa);
+    padding: 64px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+    font-family: var(--fonte-principal)
+}
+
+.relato__texto {
+    color: var(--vermelho-botao);
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 1.6em;
+}
+
+.relato__relato {
+    color: var(--pretao);
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+    line-height: 44px;
+    margin-bottom: 1em;
+}
+
+.relato__imagem {
+    margin-bottom: 1em;
+}
+
+.relato__nome {
+    color: var(--pretao);
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 0.6em;
+}
+
+.relato__cargo {
+    color: var(--cinza-principal);
+    font-size: 14px;
+    font-weight: 400;
+}
